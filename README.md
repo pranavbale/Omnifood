@@ -1,6 +1,6 @@
 *Welcome to Omnifood!*
 
-Omnifood is a revolutionary restaurant that combines cutting-edge technology with delectable cuisine to provide you with an extraordinary dining experience. Our website, built using HTML, CSS, JavaScript, and Bootstrap, showcases the epitome of front-end web design, offering a visually stunning and user-friendly interface.
+Omnifood is a revolutionary restaurant that combines cutting-edge technology with delectable cuisine to provide you with an extraordinary dining experience.It is a one page website. Our website, built using HTML, CSS, JavaScript, and Bootstrap, showcases the epitome of front-end web design, offering a visually stunning and user-friendly interface.
 
 When you land on our website, you'll immediately be captivated by the sleek and modern design, with an intuitive layout that guides you effortlessly through our offerings. The homepage sets the stage for a culinary adventure, featuring high-quality images of our mouthwatering dishes and captivating videos that showcase the artistry behind our food.
 
@@ -36,7 +36,7 @@ Cities
 <img width="1440" alt="Screenshot 2023-06-10 at 1 30 11 AM" src="https://github.com/pranavbale/Omnifood/assets/78872729/dd6bff2a-1248-45fb-8a59-9647af28959a">
 Omnifood is committed to providing its exceptional food delivery service in various cities, ensuring that customers across different locations can enjoy the convenience and taste of our cuisine.
 
-Review 
+Reviews
 <img width="1440" alt="Screenshot 2023-06-10 at 1 30 18 AM" src="https://github.com/pranavbale/Omnifood/assets/78872729/5a322ed0-ddd8-41da-be81-8b55d64dc05f">
  The review section comprises individual reviews submitted by consumers who have used or interacted with the product or service. These reviews are typically written by individuals who share their personal experiences, opinions, and satisfaction levels.
  
