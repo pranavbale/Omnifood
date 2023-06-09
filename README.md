@@ -1,4 +1,4 @@
-Welcome to Omnifood!
+*Welcome to Omnifood!*
 
 Omnifood is a revolutionary restaurant that combines cutting-edge technology with delectable cuisine to provide you with an extraordinary dining experience. Our website, built using HTML, CSS, JavaScript, and Bootstrap, showcases the epitome of front-end web design, offering a visually stunning and user-friendly interface.
 
