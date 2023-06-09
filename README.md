@@ -16,4 +16,15 @@ Come and join us at Omnifood. Your extraordinary dining experience awaits!
 
 *Screenshot*
 Home page 
-![Uploading Screenshot 2023-06-08 at 8.05.41 PM.png…]()
+<img width="1680" alt="Screenshot 2023-06-08 at 8 05 41 PM" src="https://github.com/pranavbale/Omnifood/assets/78872729/f4730ee2-d276-4972-bbe4-a71c92bb9789">
+As you arrive on our homepage, you are greeted with a stunning visual display that immediately captures your attention. The page features a sleek and modern design, incorporating a harmonious blend of vibrant colors, high-quality images, and smooth transitions.
+
+Get-Food-Fast
+<img width="1680" alt="Screenshot 2023-06-08 at 8 05 50 PM" src="https://github.com/pranavbale/Omnifood/assets/78872729/cc3dce49-c397-4b3b-be09-034111366996">
+At Omnifood, we understand that sometimes you need your food quickly without compromising on quality and taste. That's why we have created the "Get Food Fast" page to cater to those who are looking for a swift and convenient dining experience.
+
+Food-Photos-Collection
+<img width="1680" alt="Screenshot 2023-06-08 at 8 05 56 PM" src="https://github.com/pranavbale/Omnifood/assets/78872729/c21de047-295b-4df0-ab3e-a6156e8a8312">
+Prepare to feast your eyes on a delightful collection of veg food photos that showcase an array of mouthwatering dishes. Picture a veggie pizza, with its golden crust, tangy tomato sauce, and vibrant vegetable toppings like tomatoes, peppers, mushrooms, onions, and spinach, all topped off with melted mozzarella. 
+
+
